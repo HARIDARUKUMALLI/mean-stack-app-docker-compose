@@ -16,3 +16,10 @@ $ git clone https://github.com/gangachris/mean-docker
  ```
 
  App should be running in `localhost:4200`
+ 
+ 
+## Original Repository
+https://github.com/gangachris/mean-docker
+Original repository credists goes to author of above repository
+
+This version of the repository contains some minor changes inorder to understand docker compose little deeply :)
